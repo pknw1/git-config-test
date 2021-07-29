@@ -1,0 +1,12 @@
+README.md
+bin
+compose
+config.json
+pk.txt
+portainer.db
+portainer.key
+portainer.pub
+qBittorrent
+test.txt
+tls
+updates.txt
